@@ -30,8 +30,11 @@ It presents a set of multiple-choice questions to the user, evaluates their answ
 Which language is used for web apps?
 
 A. Python
+
 B. Java
+
 C. JavaScript
+
 D. All
 
 Enter your answer (A/B/C/D):  a
@@ -39,11 +42,17 @@ Enter your answer (A/B/C/D):  a
 ❌ Wrong! Correct answer is: D
 
 Who developed Python?
+
 A. Elon Musk
+
 B. Guido van Rossum
+
 C. Bill Gates
+
 D. Mark Zuckerberg
+
 Enter your answer (A/B/C/D):  b
+
 ✅ Correct!
 
 🎉 Quiz Completed!

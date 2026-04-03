@@ -27,17 +27,6 @@ It presents a set of multiple-choice questions to the user, evaluates their answ
 
 ## 💡 Example Output
 
-🎯 Welcome to Quiz App!
------------------------
-
-What is the capital of India?
-A. Mumbai
-B. Delhi
-C. Chennai
-D. Kolkata
-Enter your answer (A/B/C/D):  delhi
-❌ Wrong! Correct answer is: B
-
 Which language is used for web apps?
 A. Python
 B. Java
@@ -51,14 +40,6 @@ A. Elon Musk
 B. Guido van Rossum
 C. Bill Gates
 D. Mark Zuckerberg
-Enter your answer (A/B/C/D):  b
-✅ Correct!
-
-What does CPU stand for?
-A. Central Process Unit
-B. Central Processing Unit
-C. Computer Personal Unit
-D. Central Power Unit
 Enter your answer (A/B/C/D):  b
 ✅ Correct!
 
